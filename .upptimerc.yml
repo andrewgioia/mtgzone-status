@@ -11,13 +11,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mtgzone.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://mtgzone.com/pictrs/image/2028a67f-6a09-4b8e-a70e-d471304a47a8.png
+  name: MTGZone Status
+  introTitle: "Status page for MTGZone.com"
+  introMessage: Uptime monitorting and system status page using real-time data from our [GitHub repository](https://github.com/andrewgioia/mtgzone-status). Please [reach out to us on Mastodon](https://mastodon.social/@mtgzone) with any issues.
   navbar:
-    - title: Status
-      href: /
+    - title: MTGZone
+      href: https://mtgzone.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
