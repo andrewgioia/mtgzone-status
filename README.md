@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.mtgzone.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Andrew Gioia](https://andrewgioia.com), powered by [Upptime](https://github.com/upptime/upptime).
+[MTGZone.com](https://mtgzone.com) status page and uptime monitor, available at https://status.mtgzone.com. Powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/andrewgioia/mtgzone-status/workflows/Uptime%20CI/badge.svg)](https://github.com/andrewgioia/mtgzone-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/andrewgioia/mtgzone-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/andrewgioia/mtgzone-status/actions?query=workflow%3A%22Response+Time+CI%22)
