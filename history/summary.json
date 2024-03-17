@@ -6,15 +6,15 @@
     "slug": "mtg-zone-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 386,
-    "timeDay": 303,
-    "timeWeek": 338,
-    "timeMonth": 384,
-    "timeYear": 386,
+    "time": 384,
+    "timeDay": 217,
+    "timeWeek": 336,
+    "timeMonth": 382,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2024-03-15": 18
     }
