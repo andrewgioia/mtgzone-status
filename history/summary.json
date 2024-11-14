@@ -4,7 +4,7 @@
     "url": "https://www.mtgzone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mtgzone.com.ico",
     "slug": "mtg-zone-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
@@ -16,6 +16,7 @@
     "timeMonth": 1666,
     "timeYear": 1374,
     "dailyMinutesDown": {
+      "2024-11-14": 0,
       "2024-11-11": 73,
       "2024-11-10": 32,
       "2024-11-09": 69,
