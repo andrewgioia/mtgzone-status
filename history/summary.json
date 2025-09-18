@@ -4,18 +4,19 @@
     "url": "https://www.mtgzone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mtgzone.com.ico",
     "slug": "mtg-zone-com",
-    "status": "up",
-    "uptime": "99.37%",
+    "status": "down",
+    "uptime": "99.38%",
     "uptimeDay": "95.11%",
     "uptimeWeek": "91.19%",
     "uptimeMonth": "97.89%",
-    "uptimeYear": "98.96%",
-    "time": 1962,
+    "uptimeYear": "98.97%",
+    "time": 1965,
     "timeDay": 11062,
     "timeWeek": 7755,
     "timeMonth": 4505,
-    "timeYear": 1942,
+    "timeYear": 1944,
     "dailyMinutesDown": {
+      "2025-09-18": 0,
       "2025-09-17": 70,
       "2025-09-16": 378,
       "2025-09-15": 95,
@@ -77,8 +78,7 @@
       "2024-10-26": 46,
       "2024-10-24": 17,
       "2024-10-11": 19,
-      "2024-10-10": 17,
-      "2024-10-05": 23
+      "2024-10-10": 17
     }
   }
 ]
