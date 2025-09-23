@@ -6,17 +6,16 @@
     "slug": "mtg-zone-com",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "92.91%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.96%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "98.96%",
     "time": 2240,
     "timeDay": 17501,
     "timeWeek": 9452,
     "timeMonth": 6346,
     "timeYear": 2165,
     "dailyMinutesDown": {
-      "2025-09-22": 4,
       "2025-09-21": 53,
       "2025-09-20": 85,
       "2025-09-19": 87,
@@ -74,7 +73,8 @@
       "2024-11-19": 20,
       "2024-11-18": 21,
       "2024-11-14": 18,
-      "2024-11-11": 73
+      "2024-11-11": 73,
+      "2024-11-10": 16
     }
   }
 ]
